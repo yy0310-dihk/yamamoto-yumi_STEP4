@@ -38,8 +38,8 @@
             <textarea id="question" name="question" rows="4" required></textarea><br><br>
 
             <!-- 性別 -->
-            <label for="gender" required>性別：</label>
-            <select id="gender" name="gender">
+            <label for="gender">性別：</label>
+            <select id="gender" name="gender" required>
                 <option value="male">男性</option>
                 <option value="female">女性</option>
                 <option value="other">その他／回答しない</option>
